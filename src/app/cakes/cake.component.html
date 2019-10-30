@@ -1,0 +1,20 @@
+<h1>Cake Bite</h1>
+
+<div class="row">
+    <div class="col col-sm-4" *ngFor="let cake of allCakes">
+        <div class="card">
+            <img src="/assets/{{cake.Image}}" class="card-img-top" alt="">
+        </div>
+        <div class="card-body">
+           <h5 class="card-title">{{cake.CakeName}}</h5>
+           <div class="row">
+             <div class="col col-sm-6">
+                Cost
+             </div>
+             <div class="col col-sm-6">
+                $ {{cake.Cost}}
+             </div>
+           </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,43 @@
+{
+    "AllCakes":[{
+        "Id":1,
+        "CakeName":"Black Forest Cake",
+        "Image":"blackforest.webp",
+        "Cost":599
+    },{
+        "Id":1,
+        "CakeName":"Pineapple Cake",
+        "Image":"pineapple.webp",
+        "Cost":599
+    },{
+        "Id":1,
+        "CakeName":"Chacolate Truffle Delicious Cake",
+        "Image":"chocolatetrufflecreamcake.webp",
+        "Cost":699
+    },{
+        "Id":1,
+        "CakeName":"Red Velvet Fresh Cream Cake",
+        "Image":"redvelvetfreshcreamcake.webp",
+        "Cost":799
+    },{
+        "Id":1,
+        "CakeName":"Butterscotch Cake",
+        "Image":"butterscotch.webp",
+        "Cost":599
+    },{
+        "Id":1,
+        "CakeName":"Chacolate Cream Cake",
+        "Image":"chocolatecreamcake.webp",
+        "Cost":599
+    },{
+        "Id":1,
+        "CakeName":"Kit Kat Cake",
+        "Image":"kitkatcake.webp",
+        "Cost":1099
+    },{
+        "Id":1,
+        "CakeName":"Carrot Walnut Cake",
+        "Image":"carrotwalnutcake.webp",
+        "Cost":799
+    }]
+}
